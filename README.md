@@ -39,3 +39,7 @@ elif acertos == 5:
 elif acertos == 4:
     print("Quadra")
 ```
+
+## Referências
+
+[Estudo de bibliotecas](https://github.com/orlandosaraivajr/FATEC_1SEM26_LP2/issues/6)
